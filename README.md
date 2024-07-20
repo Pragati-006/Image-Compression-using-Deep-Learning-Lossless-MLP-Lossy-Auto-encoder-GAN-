@@ -31,12 +31,9 @@ pip install -r requirements.txt
 Output:
 
 ![mlp](https://github.com/user-attachments/assets/4ded6f7e-7b45-44c8-8138-0e4b65673a83)
-MLP
 ![rnn-cnn-ae](https://github.com/user-attachments/assets/e12fa385-8965-479a-a98c-ca1fd63ea388)
-RNN-CNN-AE
 ![gan](https://github.com/user-attachments/assets/0c69e9a8-214c-4bb6-986a-b79c09a1b04e)
-GAN
 ![cnn-ae](https://github.com/user-attachments/assets/8e0ad946-bbfd-47d9-aadb-628e3a716d9b)
-CNN-AE
+
 
     
