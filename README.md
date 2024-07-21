@@ -12,7 +12,7 @@ Future Directions: To identify potential areas for further improvement in compre
 
 ### Result
 
-#### Layers of MLP. We used ReLU functions after every layer 
+#### Layers of MLP We used ReLU functions after every layer 
 ![image](https://github.com/user-attachments/assets/ba4254a8-6da7-4e21-954e-63db26982810)
 
 #### Compression achive using combination of both autoencoder and GAN
